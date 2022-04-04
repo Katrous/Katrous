@@ -6,7 +6,7 @@ I enjoy developing websites and learning new things every single day! 📗📖�
 
 Im currently working on learning and mastering the MERN stack.
 
-I'm always looking for ways to improve my code, gain new experiences and knowledge. If you have any suggestions, advice or just stories you can reach me on <a href="https://www.instagram.com/laurzrichardz/"> Instagram </a> and <a href="https://www.linkedin.com/in/laura-richards-4562aa226/"> Linked In </a>
+I'm always looking for ways to improve my code, gain new experiences and knowledge. If you have any suggestions, advice or just stories you can reach me on <a href="https://www.instagram.com/laurzrichardz/"> <img src="https://github.com/mishmanners/MishManners/raw/master/socials/instagram.png"> </img> </a> and <a href="https://www.linkedin.com/in/laura-richards-4562aa226/"> Linked In </a>
 
 
 
